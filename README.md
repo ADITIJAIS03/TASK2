@@ -48,7 +48,7 @@ To analyze sales and profitability trends in the Superstore dataset using Power 
 - 📊 Power BI Dashboard (local `.pbix` file)
 - 📁 `Sample - Superstore.xls` dataset
 - 🖼 Dashboard screenshots (in `/screenshots/`)
-- 📄 `dashboard.pdf` – Exported report view
+- 📄 `superstore.pdf` – Exported report view
 - 📄 This README file
 
 ---
